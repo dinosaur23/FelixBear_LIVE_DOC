@@ -1,7 +1,7 @@
 Usage
 =====
 
-.. _installation:
+FelixBear LIVE Usage
 
 Installation
 ------------
